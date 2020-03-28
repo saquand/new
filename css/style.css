@@ -32,7 +32,7 @@ img.photo {
 
 #bg-image{
 	/*background-image: url("https://www.ottoworkforce.com/en/wp-content/uploads/2015/04/employers-working-for-otto-work-force-at-the-office-1920x1057.jpg");*/
-  background-image: url("images/back.jpg");
+  background-image: url("images/back.JPG");
   /* Add the blur effect */
   filter: blur(8px);
   -webkit-filter: blur(8px);
