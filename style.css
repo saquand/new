@@ -12,7 +12,13 @@ h1{
     font-size: 50px;
 }
 
+
 h2{
+    font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  display: inline;
+}
+h3{
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
 }
@@ -30,6 +36,14 @@ img.photo {
   transition: all 0.3s ease;
 }
 
+.section{
+  padding: 10px;
+}
+
+.title{
+  padding: 3px;
+}
+
 #bg-image{
   /*background-image: url("https://www.ottoworkforce.com/en/wp-content/uploads/2015/04/employers-working-for-otto-work-force-at-the-office-1920x1057.jpg");*/
   background-image: url("images/back.jpg");
@@ -43,7 +57,8 @@ img.photo {
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;;
+  margin-bottom: 20px;
 }
 
 #bg-text {
