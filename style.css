@@ -1,14 +1,14 @@
 body{
-	background: rgb(240,240,240);
-	color: rgb(20, 20, 20);
-	font-size: 18px;
-	font-family: 'Source Sans Pro', sans-serif;
-	margin: 0 auto;
+  background: rgb(240,240,240);
+  color: rgb(20, 20, 20);
+  font-size: 18px;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0 auto;
   text-align: center;
 }
 
 h1{
-	font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
     font-size: 50px;
 }
 
@@ -31,7 +31,7 @@ img.photo {
 }
 
 #bg-image{
-	/*background-image: url("https://www.ottoworkforce.com/en/wp-content/uploads/2015/04/employers-working-for-otto-work-force-at-the-office-1920x1057.jpg");*/
+  /*background-image: url("https://www.ottoworkforce.com/en/wp-content/uploads/2015/04/employers-working-for-otto-work-force-at-the-office-1920x1057.jpg");*/
   background-image: url("images/back.jpg");
   /* Add the blur effect */
   filter: blur(8px);
@@ -47,7 +47,7 @@ img.photo {
 }
 
 #bg-text {
-	  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
   color: white;
   font-weight: bold;
   border: 3px solid #f1f1f1;
@@ -63,19 +63,19 @@ img.photo {
 
 
 #footer{
-	padding: 20px;
-	background-image: url(https://images.pexels.com/photos/2280598/pexels-photo-2280598.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
-	color: grey;
+  padding: 20px;
+  background-image: url(https://images.pexels.com/photos/2280598/pexels-photo-2280598.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+  color: grey;
   text-align:none;
 }
 
 #footer a{
-	color: lightgrey;
-	font-size: 15px;
+  color: lightgrey;
+  font-size: 15px;
 }
 
 #footer a:hover{
-	color: white;
+  color: white;
 }
 
 #epfl:hover{
